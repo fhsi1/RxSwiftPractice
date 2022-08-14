@@ -1,6 +1,5 @@
 import Foundation
 import RxSwift
-import os
 
 let disposeBag = DisposeBag()
 
