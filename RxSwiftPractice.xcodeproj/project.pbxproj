@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		102CE09628AB72690031332C /* FilteringOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FilteringOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		103D6CCD28A7C8DE00597D05 /* RxSwiftPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxSwiftPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		103D6CD028A7C8DE00597D05 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		103D6CD228A7C8DE00597D05 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +52,7 @@
 				103D6CE428A7CA9D00597D05 /* Observable.playground */,
 				103D6CE528A7DDD700597D05 /* Traits.playground */,
 				10E27ADE28A8DDB600085008 /* Subjects.playground */,
+				102CE09628AB72690031332C /* FilteringOperator.playground */,
 				103D6CCF28A7C8DE00597D05 /* RxSwiftPractice */,
 				103D6CCE28A7C8DE00597D05 /* Products */,
 				C378256314FAEFE60301D1A3 /* Pods */,
